@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33865409702",
+    "project_id": "ulearning-app-1ec9e",
+    "storage_bucket": "ulearning-app-1ec9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33865409702:android:89eb0507879ee9c02a8067",
+        "android_client_info": {
+          "package_name": "com.interspeed.ulearning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqD5htTM1_rpH5lOHzqpdv6IaLvRQsig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
